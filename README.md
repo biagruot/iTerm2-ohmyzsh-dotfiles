@@ -1,4 +1,4 @@
-<h1 align="center">My personal dotfiles for iTerm + ohmyzsh</h1>
+<h1 align="center">My personal dotfiles for iTerm + Oh My Zsh</h1>
 
 <p align="center">
   <h5 align="center"> iTerm2 </h5>
